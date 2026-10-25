@@ -1,0 +1,8 @@
+MINHA ESTANTE — projeto inicial Android (Expo)
+
+IMPORTANTE: este ZIP contém o código-fonte do projeto, NÃO um APK pronto.
+A versão inicial inclui interface preta/amarela, apelido local, busca, importação de PDFs, abas, favoritos e opção de mover livros por toque longo. A abertura/leitura real do PDF e salvamento de página ainda precisam ser implementados; não distribua como versão final.
+
+Para gerar APK, o projeto precisa ser enviado ao EAS Build com a ferramenta EAS CLI. O EAS Build é um serviço de compilação na nuvem, mas a conta Expo sozinha não compila um ZIP automaticamente.
+
+Configuração técnica inicial: Expo SDK 54, React Native 0.81.4.

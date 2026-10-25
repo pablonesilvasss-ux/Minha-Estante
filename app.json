@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Minha Estante",
+    "slug": "minha-estante-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "android": {"package": "com.minhaestante.leitor", "versionCode": 1, "permissions": []},
+    "plugins": ["expo-document-picker"],
+    "extra": {"eas": {"projectId": "REPLACE_WITH_EAS_PROJECT_ID"}}
+  }
+}
